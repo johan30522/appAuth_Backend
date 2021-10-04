@@ -1,0 +1,8 @@
+
+
+
+GENERAR SEED ALEATORIOS:
+
+1. Abrir la terminal de VS
+2. ingresar> node
+3. ingresar> require('crypto').randomBytes(128).toString('hex');
